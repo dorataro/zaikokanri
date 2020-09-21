@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B3EFE224-93AE-46A2-9974-BFA02CDDBAA0}</ProjectGuid>
+    <ProjectGuid>{A493EC1D-C325-48C2-987B-E7DFEB2E19B6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>zaikokanri</RootNamespace>
     <AssemblyName>zaikokanri</AssemblyName>
@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="output.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
